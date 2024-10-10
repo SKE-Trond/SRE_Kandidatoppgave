@@ -6,7 +6,7 @@ Lag docker images og kjør docker-compose
 
 Vi har lagt ved et lite sett med filer for å komme i gang.
 
-Docker og docker-compose på være installert og tilgjengelig.
+Docker og docker-compose må være installert og tilgjengelig.
 
 ## Lag docker images
 
