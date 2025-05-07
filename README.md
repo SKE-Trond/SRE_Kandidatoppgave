@@ -12,6 +12,13 @@ Ting som er relevante å vise frem:
 
 Steget med å sette opp Grafana og dashboards som viser helsestatus er viktig, og mye av dette kan løses uten logg og trace. Husk derfor å bruke tiden fornuftig.  
 
+## Tidsbruk
+
+En effektiv gjennomgang av oppgaven tar ca 4 timer. 
+
+En grundig besvarelse vil ta en del lenger tid. Det er derfor lurt å lese gjennom oppgaven først og velge vekk noe hvis det er mye ukjent. 
+
+Delene er også relativt uavhengige så det er fritt frem å hoppe over steg hvis man sitter fast. 
 
 ## Forslag til løst oppgave
 
