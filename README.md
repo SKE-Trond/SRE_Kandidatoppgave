@@ -1,3 +1,5 @@
+**Lever oppgaven som et privat repo som du deler med følgende brukere: SKE-Trond, Salve, Rmyhren**
+
 # Kandidatoppgave
 
 Kandidatoppgaven viser at du kan sette opp et system for overvåkning av applikasjoner og 
