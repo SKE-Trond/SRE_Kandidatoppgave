@@ -1,5 +1,3 @@
-**Lever oppgaven som et privat repo som du deler med følgende brukere: SKE-Trond, Salve, Rmyhren**
-
 # Kandidatoppgave
 
 Kandidatoppgaven viser at du kan sette opp et system for overvåkning av applikasjoner og 
@@ -34,6 +32,7 @@ Husk at alle hjelpemidler, bortsett fra å få hjelp av andre personer, er tilgj
 
 **Lever besvarelsen på GitHub.** Legg ved Dockerfiler, yaml filer, eller hva enn du velger å bruke for å løse oppgaven.
 Legg også ved en **README.md** som beskriver løsningen og kjøring av systemet. 
+**Lever oppgaven som et privat repo som du deler med følgende brukere: SKE-Trond, Salve, Rmyhren**
 
 ### Container
 
